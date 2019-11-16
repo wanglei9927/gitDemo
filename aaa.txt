@@ -1,6 +1,3 @@
 this is aaaaaaa;
 this is bbbbbbb;
-<<<<<<< HEAD
 this is ccccccc;
-=======
->>>>>>> 99792891439073653152d92b96156d13ada66eac
